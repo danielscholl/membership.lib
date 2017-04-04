@@ -27,7 +27,7 @@ MIT © [Daniel Scholl]
 
 
 [npm-image]: https://badge.fury.io/js/membership.svg
-[travis-image]: https://travis-ci.org/vzdigitalmedia/membership.svg?branch=master
-[travis-url]: https://travis-ci.org/vzdigitalmedia/membership
-[daviddm-image]: https://david-dm.org/vzdigitalmedia/membership.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/vzdigitalmedia/membership
+[travis-image]: https://travis-ci.org/danielscholl/membership.svg?branch=master
+[travis-url]: https://travis-ci.org/danielscholl/membership
+[daviddm-image]: https://david-dm.org/danielscholl/membership.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/danielscholl/membership
